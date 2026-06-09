@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Care Package") (type "KiCad") (uri "${KIPRJMOD}/Libs/kicad_care_package") (options "") (descr ""))
+)
